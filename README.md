@@ -10,6 +10,10 @@
 
 更多信息请访问 [网站](https://www.huangdouzai.com),现想寻找人一起将这个项目写完，公司事情太多了。。。。。
 
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/备份/1.gif)
+
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/备份/2.gif)
+
 ![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/备份/1.png)
 
 ![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/备份/2.png)
