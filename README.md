@@ -10,9 +10,15 @@
 
 更多信息请访问 [网站](https://www.huangdouzai.com),现想寻找人一起将这个项目写完，公司事情太多了。。。。。
 
-![效果图](https://github.com/helengray/XiFan/raw/master/xifan.gif)
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/屏幕快照 2018-01-25 下午3.49.22.png)
 
-![效果图](https://github.com/helengray/XiFan/raw/master/xifan2.gif)
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/屏幕快照 2018-01-25 下午3.50.00.png)
+
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/屏幕快照 2018-01-25 下午3.50.12.png)
+
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/屏幕快照 2018-01-25 下午3.50.24.png)
+
+![效果图](https://github.com/barretzhi/huangdouzaiapp/blob/master/屏幕快照 2018-01-25 下午3.50.56.png)
 ## 注意
 node_modules 没有上传，要自己执行yarn install。
 
