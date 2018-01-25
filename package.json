@@ -1,0 +1,65 @@
+{
+  "name": "StarterKit",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "pretest": "./node_modules/.bin/eslint -c .eslintrc --ext .js src",
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupFiles": [
+      "<rootDir>/jest.setup.js"
+    ],
+    "transformIgnorePatterns": [
+      "node_modules/(?!react-native|tcomb-form-native|apsl-react-native-button,react-clone-referenced-element)"
+    ],
+    "collectCoverage": true,
+    "verbose": true
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "firebase": "^4.8.0",
+    "lodash": "^4.17.4",
+    "prop-types": "^15.5.10",
+    "qs": "^6.5.1",
+    "react": "16.2.0",
+    "react-native": "0.51.0",
+    "react-native-af-video-player": "^0.1.3",
+    "react-native-card-stack-swiper": "^1.0.45",
+    "react-native-device-info": "^0.13.0",
+    "react-native-dotenv": "0.1.0",
+    "react-native-elements": "^0.18.5",
+    "react-native-google-analytics-bridge": "^5.4.1",
+    "react-native-parallax-swiper": "^1.1.7",
+    "react-native-picker": "^4.3.2",
+    "react-native-router-flux": "4.0.0-beta.24",
+    "react-native-side-menu": "^1.1.3",
+    "react-native-snap-carousel": "^3.5.0",
+    "react-native-tab-view": "0.0.74",
+    "react-native-vector-icons": "^4.4.2",
+    "react-native-video": "^2.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "tcomb-form-native": "^0.6.11"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-eslint": "^8.0.3",
+    "babel-jest": "21.2.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react-native": "4.0.0",
+    "babel-register": "^6.26.0",
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "jest": "^21.2.1",
+    "jest-react-native": "^18.0.0",
+    "react-test-renderer": "^16.2.0"
+  }
+}
